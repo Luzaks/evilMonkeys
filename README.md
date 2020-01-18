@@ -1,4 +1,4 @@
-# 2D-Game-Design
+# Evil Monkeys
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ Contributions are what make the open source community such an amazing place to b
 Guadalupe Rangel - kanemekanik@gmail.com
 [On GitHub](https://github.com/Luzaks)
 
-Project Link: [2D-Game-Design](https://github.com/Luzaks/2D-Game-Design)
+Project Link: [evilMonkeys](https://github.com/Luzaks/2D-Game-Design)
 
 
 
